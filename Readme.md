@@ -1,7 +1,7 @@
 ### The Problem:
-Waste System recycling. /n
-ref: https://www.researchgate.net/publication/343841421_A_Distributed_Architecture_for_Smart_Recycling_Using_Machine_Learning
-The reference guides the techniques and parameters of models trained
+#### Waste System recycling. 
+#### ref: https://www.researchgate.net/publication/343841421_A_Distributed_Architecture_for_Smart_Recycling_Using_Machine_Learning
+#### The reference guides the techniques and parameters of models trained
 
 ## Data Collection and Preparation: 
     - Trashnet dataset can be found @ https://github.com/garythung/trashnet 
