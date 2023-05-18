@@ -26,11 +26,11 @@ Some of the better architectures mentioned in the paper referenced which in our 
 ## Training: 
 Set up Models <br />
 Train base Models <br />
-tune hyper parameters <br />
-train with augmented data <br />
+Tune hyper parameters <br />
+Train with augmented data <br />
 
 ## Evaluation:
-my model training  <br />
+My model training  <br />
 - BasicCNN 78% accuracy 200 epochs <br />
 - ResNet50V2 91% accuracy 100 epochs <br />
 - MobileNetV2 89% accuracy 100 epochs  <br />
@@ -52,7 +52,7 @@ The purpose of this module was to identify trash types for waste recycling syste
 
 
 ## Installation Instructions: 
-clone and run notebooks
+Clone and run notebooks
 
 ## Usage Guide: 
 Using Anaconda enviroment (install Anaconda) <br />
@@ -67,7 +67,7 @@ Training models can be performed with evaluation metrics and graphs <br />
 - MobileNet image size (224,224) <br />
 
 ## Continuous Improvement: 
-- exploring  <br />
-    - yolo training <br />
-    - sub class classification <br />
-    - recyclable binary classifier, then trash type classifier  <br />
+- Exploring  <br />
+    - Yolo training <br />
+    - Sub class classification <br />
+    - Recyclable binary classifier, then trash type classifier  <br />
