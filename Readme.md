@@ -44,11 +44,11 @@ Ideally if one object can be identified as recyclable or not then maybe the type
 The purpose of this module was to identify trash types for waste recycling systems that seperate and aggregate trash and recyclables.    
 
 ## Dependencies: 
-    - conda install tensorflow
-    - conda install matplotlib
-    - conda install scikit-learn
-    - conda install seaborn 
-    - conda install numpy
+    conda install tensorflow
+    conda install matplotlib
+    conda install scikit-learn
+    conda install seaborn 
+    conda install numpy
 
 
 ## Installation Instructions: 
