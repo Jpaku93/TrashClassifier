@@ -6,12 +6,12 @@ The reference guides the techniques and parameters of models trained
 ## Data Collection and Preparation: 
 Trashnet dataset can be found @ https://github.com/garythung/trashnet <br />
 Get_Data.ipynb clones the repo and prepares it    <br />
-    - 501 glass
-    - 594 paper
-    - 403 cardboard
-    - 482 plastic
-    - 410 metal
-    - 137 trash
+    - 501 glass <br />
+    - 594 paper <br />
+    - 403 cardboard <br />
+    - 482 plastic <br />
+    - 410 metal <br />
+    - 137 trash <br />
 
 ## Framework: 
     - TensorFlow: Standard computer vision and neural networks library with augmentation processing and pretrained models
