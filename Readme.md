@@ -1,5 +1,5 @@
 ### The Problem:
-Waste System recycling.
+Waste System recycling. /n
 ref: https://www.researchgate.net/publication/343841421_A_Distributed_Architecture_for_Smart_Recycling_Using_Machine_Learning
 The reference guides the techniques and parameters of models trained
 
