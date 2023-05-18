@@ -4,8 +4,8 @@ ref: https://www.researchgate.net/publication/343841421_A_Distributed_Architectu
 The reference guides the techniques and parameters of models trained
 
 ## Data Collection and Preparation: 
-    - Trashnet dataset can be found @ https://github.com/garythung/trashnet 
-    - Get_Data.ipynb clones the repo and prepares it    
+Trashnet dataset can be found @ https://github.com/garythung/trashnet <br />
+Get_Data.ipynb clones the repo and prepares it    <br />
     - 501 glass
     - 594 paper
     - 403 cardboard
