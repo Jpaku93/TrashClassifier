@@ -17,7 +17,6 @@ Get_Data.ipynb clones the repo and prepares it    <br />
 TensorFlow: Standard computer vision and neural networks library with augmentation processing and pretrained models 
 
 ## Model Development: 
-CNN architecture <br />
 Some of the better architectures mentioned in the paper referenced which in our case will be trying to beat <br />    
 - InceptionResnetV2 89.13% <br />
 - DenseNet121 95.10% <br />
@@ -32,9 +31,9 @@ train with augmented data <br />
 
 ## Evaluation:
 my model training  <br />
-    - BasicCNN 78% accuracy 200 epochs <br />
-    - ResNet50V2 91% accuracy 100 epochs <br />
-    - MobileNetV2 89% accuracy 100 epochs  <br />
+- BasicCNN 78% accuracy 200 epochs <br />
+- ResNet50V2 91% accuracy 100 epochs <br />
+- MobileNetV2 89% accuracy 100 epochs  <br />
 Validation accuracy is less than 20% with 0.1 of training data
 
 ## Documentation: 
