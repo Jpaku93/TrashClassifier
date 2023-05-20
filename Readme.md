@@ -38,7 +38,7 @@ Validation accuracy is less than 20% with 0.1 of training data
 
 ## Documentation: 
 The model is not yet performing, the training metrics are not accurate measurements of live performance and more research on the data shall be applied such as, sub classes or yolo model training.  <br />
-Ideally if one object can be identified as recyclable or not then maybe the type of material can be identified from there as a common outcome in the validation confusion matrix is that trash is an unidentifiable class, also by a personal observation.    
+Ideally if one object can be identified as recyclable or not then maybe the type of material can be identified from there as a common outcome in the validation confusion matrix is that trash is an unidentifiable class, also by a personal observation common items look the same as other classes.   
 
 ## Overview: 
 The purpose of this module was to identify trash types for waste recycling systems that seperate and aggregate trash and recyclables.    
