@@ -70,4 +70,3 @@ Training models can be performed with evaluation metrics and graphs <br />
 - Exploring  <br />
     - Yolo training <br />
     - Sub class classification <br />
-    - Recyclable binary classifier, then trash type classifier  <br />
